@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: product-catalog
+  elasticsearch:
+    uris: http://localhost:9200
+    username: elastic
+    password: daniel
